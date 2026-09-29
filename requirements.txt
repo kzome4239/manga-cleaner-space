@@ -1,0 +1,11 @@
+torch
+torchvision
+gradio
+simple-lama-inpainting
+fire
+pyclipper
+shapely
+onnxruntime
+opencv-python-headless
+pillow
+huggingface_hub
